@@ -12,7 +12,23 @@ hidden: false
 #   - name: Anonymous
 
 authors:
-  - name: anonymous
+  - name: Abhinav Kumar
+    affiliations:
+      name: Indian Institute of Technology, Roorkee
+  
+  - name: Adesh Gupta
+    affiliations:
+      name: Indian Institute of Technology, Roorkee
+  
+  - name: Mansi Gupta
+    affiliations:
+      name: Indian Institute of Technology, Roorkee
+  
+  - name: Shivank Garg
+    affiliations:
+      name: Indian Institute of Technology, Roorkee
+  
+
 
 # must be the exact same name as your blogpost
 bibliography: 2025-05-07-positional-embedding.bib  
